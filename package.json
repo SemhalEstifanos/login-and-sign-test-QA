@@ -1,0 +1,23 @@
+{
+  "name": "login-and-sign-test-qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SemhalEstifanos/login-and-sign-test-QA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SemhalEstifanos/login-and-sign-test-QA/issues"
+  },
+  "homepage": "https://github.com/SemhalEstifanos/login-and-sign-test-QA#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
